@@ -159,6 +159,7 @@
 .genderIconBx{
   width: 18px;
   height: 18px;
+  z-index: 0;
 }
 
 .refreshBtn{
@@ -268,6 +269,7 @@
   border-radius: 4px;
   visibility:hidden;
   transition: all .4s ease;
+  z-index: 2;
 }
 
 .autocomplete div{
